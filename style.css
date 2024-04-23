@@ -1,0 +1,146 @@
+body{
+    background: #76d9e6;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+}
+
+header {
+    background-color: #000000;
+    color: #3cd6ebea;
+    padding: 0px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fffffff3;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: center;
+    border-bottom: 1px solid #93b3e4;
+}
+th {
+    background-color: #d1ba52;
+}
+
+.game {
+    margin-bottom: 20px;
+}
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff0000;
+    margin-bottom: 10px;
+}
+.description {
+    font-size: 13px;
+   color: rgb(0, 0, 0);
+   align-items: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.decade {
+    margin-bottom: 30px;
+}
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+.description {
+    font-size: 16px;
+    color: #666;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.decade {
+    margin-bottom: 30px;
+}
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fce8e8;
+    margin-bottom: 5px;
+}
+.description {
+    font-size: 16px;
+    color: #000000;
+}
+
+footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+p {
+    margin: 5px 0;
+}
+
+.social-links {
+    margin-top: 10px;
+}
+
+.social-link {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.social-link:hover {
+    text-decoration: underline;
+}
